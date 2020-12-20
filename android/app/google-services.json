@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050247901777",
+    "project_id": "relaxmusic-d6390",
+    "storage_bucket": "relaxmusic-d6390.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050247901777:android:a9191b78a141502cb47e70",
+        "android_client_info": {
+          "package_name": "com.example.relax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050247901777-nj7nglknt8m7jj8tq1is5hgfs3onj3jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyeCfvj4loZ1dMd_M-oYuAgDK11owxoTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050247901777-nj7nglknt8m7jj8tq1is5hgfs3onj3jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
